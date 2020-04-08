@@ -1,4 +1,4 @@
-package com.werktechnologies.android.global.edu
+package com.amlwin.android.launchpad
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

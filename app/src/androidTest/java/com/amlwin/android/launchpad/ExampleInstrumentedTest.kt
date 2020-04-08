@@ -1,4 +1,4 @@
-package com.werktechnologies.android.global.edu
+package com.amlwin.android.launchpad
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry

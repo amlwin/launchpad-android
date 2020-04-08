@@ -1,4 +1,4 @@
-package com.werktechnologies.android.global.edu
+package com.amlwin.android.launchpad
 
 import android.app.Application
 
@@ -8,7 +8,4 @@ import android.app.Application
  */
 
 class MainApplication : Application() {
-    override fun onCreate() {
-        super.onCreate()
-    }
 }

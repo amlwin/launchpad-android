@@ -1,4 +1,4 @@
-package com.werktechnologies.android.global.edu
+package com.amlwin.android.launchpad
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
