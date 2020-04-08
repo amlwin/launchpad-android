@@ -92,4 +92,7 @@ dependencies {
 
     //three ten
     implementation "com.jakewharton.threetenabp:threetenabp:$rootProject.threeten_version"
+
+    //material android
+    implementation "com.google.android.material:material:$rootProject.material_version"
 }
