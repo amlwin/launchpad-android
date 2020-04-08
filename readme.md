@@ -2,7 +2,7 @@
 
 To create new project, we have to pass a long boring forest 🌲. we want to go to battle, without losing your productivity and tears 😭, I recommend to use this launch-pad
 
-## ⚠️ DON'T FRGET ⚠️
+## ⚠️ DON'T FORGET ⚠️
 
 *   To change project folder name
 *   To change package name at (```AndroidManifest.xml, build.gradle(app), build.gradle(project)```)
