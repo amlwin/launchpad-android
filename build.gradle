@@ -2,30 +2,30 @@
 
 buildscript {
     ext {
-        android_gradle_version = "3.6.1"
+        android_gradle_version = '4.0.0'
         appcompat_version = "1.1.0"
-        kotlin_version = "1.3.71"
+        kotlin_version = '1.3.72'
         kotlin_coroutine_version = "1.3.5"
         lifecycle_version = "2.2.0"
         arch_version = "2.1.0"
         test_core_version = "1.2.0'"
-        junit_version = "4.12"
+        junit_version = '4.13'
         junit_ext_version = "1.1.1"
         espresso_core_version = "3.2.0"
         constraintlayout_version = "1.1.3"
-        ktx_version = "1.2.0"
-        retrofit_version = "2.8.1"
-        logginer_intercepter_version = "4.4.0"
-        dagger_version = "2.26"
+        ktx_version = '1.3.0'
+        retrofit_version = '2.9.0'
+        logginer_intercepter_version = '4.7.2'
+        dagger_version = '2.28.1'
         mockito_version = "3.2.0"
         mocktio_kotlin_version = "2.2.0"
         timber_version = "4.7.1"
-        mock_server_version = "4.4.0"
+        mock_server_version = '4.7.2'
         runner_rule_version = "1.2.0"
         google_truth_version = "1.0.1"
         glide_version = "4.11.0"
-        threeten_version = "1.2.3"
-        material_version = "1.2.0-alpha05"
+        threeten_version = '1.2.4'
+        material_version = '1.3.0-alpha01'
     }
     repositories {
         google()
@@ -33,7 +33,7 @@ buildscript {
 
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:$android_gradle_version"
+        classpath "com.android.tools.build:gradle:${android_gradle_version}"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
 
         // NOTE: Do not place your application dependencies here; they belong
